@@ -1,5 +1,5 @@
 "# MiniProject" 
-This is dataset for our east detector East Detector to extrect text from images with convoluted background.
+This is east detector East Detector to extrect text from images with convoluted background.
 We then proceed to parse five command line arguments on Lines 9-20:
 
 --image : The path to our input image.
